@@ -31,3 +31,5 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 Nome: Marcos  Vinicius Fagundes Ricardo
 RA: 2026107783
 URL: https://2bim-avalia1-cej.pages.dev
+
+]
