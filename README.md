@@ -28,8 +28,6 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 ## Identificação (preencha após o fork)
 
-Nome: Marcos  Vinicius Fagundes Ricardo
+Nome: Marcos Vinicius Fagundes Ricardo
 RA: 2026107783
-URL: https://2bim-avalia1-cej.pages.dev
-
-]
+URL: https://desenho-assinado-marcos.pages.dev
